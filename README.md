@@ -1,6 +1,6 @@
 ![Header image](https://example.com/header.png)
 
-## Hi, I'm [your name]!
+## Hi, I'm PP!
 
 I'm a [your job title] with [number] years of experience in [your field]. I'm passionate about [your interests] and I'm always looking for new challenges.
 
@@ -18,9 +18,9 @@ No project
 
 ### Contact
 
-* Email: [22521090@gm.uit.edu.vn]
-* Website: [https://www.facebook.com/profile.php?id=100011784375442]
-* LinkedIn: [https://www.linkedin.com/in/phan-nguy%E1%BB%85n-h%E1%BB%AFu-phong-342219280/]
+* Email: [My's email](22521090@gm.uit.edu.vn)
+* Website: [Facebook](https://www.facebook.com/profile.php?id=100011784375442)
+* LinkedIn: [LinkIn](https://www.linkedin.com/in/phan-nguy%E1%BB%85n-h%E1%BB%AFu-phong-342219280/)
 
 ### Badges
 
