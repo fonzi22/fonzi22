@@ -1,4 +1,4 @@
-![Header image](exampleDT.pgn)
+![Header image](exampleDT.png)
 
 ## Hi, I'm PP!
 
