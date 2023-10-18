@@ -10,23 +10,17 @@ In my spare time, I enjoy [your hobbies].
 
 ### Skills
 
-* [Skill 1]
-* [Skill 2]
-* [Skill 3]
-* ...
+No skill
 
 ### Projects
 
-* [Project 1]
-* [Project 2]
-* [Project 3]
-* ...
+No project
 
 ### Contact
 
-* Email: [your email address]
-* Website: [your website]
-* LinkedIn: [your LinkedIn profile URL]
+* Email: [22521090@gm.uit.edu.vn]
+* Website: [https://www.facebook.com/profile.php?id=100011784375442]
+* LinkedIn: [https://www.linkedin.com/in/phan-nguy%E1%BB%85n-h%E1%BB%AFu-phong-342219280/]
 
 ### Badges
 
