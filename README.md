@@ -1,5 +1,3 @@
-![Header image](exampleDT.png)
-
 ## Hi, I'm PP!
 
 I'm a [your job title] with [number] years of experience in [your field]. I'm passionate about [your interests] and I'm always looking for new challenges.
